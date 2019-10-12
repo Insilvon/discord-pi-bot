@@ -1,0 +1,10 @@
+{
+   "name": "helloworldbot",
+   "version": "0.0.0",
+   "description": ",
+   "main": "bot.js",
+   "author": "Insilvon",
+   "dependencies": {
+      "discord.js": "^11.3.2"
+   }
+}
